@@ -8,4 +8,5 @@
 [product_analytics.ipynb ](./product_analytics.ipynb) | Accounting for targeted user actions |
 [regression.ipynb ](./regression.ipynb) | Analysis of factors affecting sales and sales forecasting |
 [youtube.ipynb ](./youtube.ipynb) | The top trending YouTube videos / combining different types of data, preparing a dataset for Tableau|
-[iFood_case_EDA.ipynb](./iFood_case_EDA.ipynb) | EDA analysis/ preparing a dataset for Tableau |
+[iFood_case_EDA.ipynb](./iFood_case_EDA.ipynb) | EDA analysis/ preparing a dataset for Tableau 
+[A_Star_Sales_Dashboard.pbix](./a_star_sales_dashboard/report/A_Star_Sales_Dashboard.pbix)   | Executive Summary, Agent comparison, Product analysis|
